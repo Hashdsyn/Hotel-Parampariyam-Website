@@ -1,0 +1,64 @@
+{
+  "lunch_menu": [
+    { "item": "Empty Biriyani", "price": 100 },
+    { "item": "Chicken Dum Biriyani", "price": 160 },
+    { "item": "Mutton Dum Biriyani", "price": { "half": 200, "full": 280 } },
+    { "item": "Chicken 65 (Parampariyam Spl Masala)", "price": 150 },
+    { "item": "Varuthu Aracha Attu Kari Thokku", "price": 250 },
+    { "item": "Varuthu Aracha Kozhi Kari Thokku", "price": 160 },
+    { "item": "Arcot Makkan Peda", "price": 40 },
+    { "item": "Sweet Peda", "price": 10 },
+    { "item": "Bread Halwa", "price": 15 },
+    { "item": "Ashoka Halwa", "price": 15 },
+    { "item": "Traditional Badam Milk", "price": 40 }
+  ],
+  "take_away": [
+    { "item": "1KG Briyani", "price": { "chicken": 300, "mutton": 500 } }
+  ],
+  "fresh_juice": [
+    { "item": "Papaya", "price": 50 },
+    { "item": "Water Melon", "price": 50 },
+    { "item": "Musk Melon", "price": 60 },
+    { "item": "Pine Apple", "price": 60 },
+    { "item": "Grape", "price": 60 },
+    { "item": "Apple", "price": 100 },
+    { "item": "Pomegranate", "price": 100 },
+    { "item": "Guava", "price": 80 },
+    { "item": "Orange", "price": 80 },
+    { "item": "Lemon", "price": 30 },
+    { "item": "Sessional Fruits", "price": null }
+  ],
+  "punjabi_chat": {
+    "timing": "3PM to 6PM",
+    "items": [
+      { "item": "Aloo Channa Samosa", "price": 15 },
+      { "item": "Pavu Bajji", "price": 40 },
+      { "item": "Punjabi Special Samosa Chat", "price": 40 },
+      { "item": "Dahi Poori", "price": 40 },
+      { "item": "Pani Poori", "price": 30 },
+      { "item": "Masala Poori", "price": 30 }
+    ]
+  },
+  "dinner_menu": [
+    { "item": "Poricha Parota (1 no)", "price": 40 },
+    { "item": "Nool Parotta (2 no)", "price": 50 },
+    { "item": "Veechi Parotta (1 no)", "price": 50 },
+    { "item": "Chilli Parota", "price": 100 },
+    { "item": "Lappa", "price": { "egg": 100, "chicken": 160, "mutton": 220 } },
+    { "item": "Chicken 65 (Parampariyam Spl Masala)", "price": 150 },
+    { "item": "Varuthu Aracha Attu Kari Thokku", "price": 250 },
+    { "item": "Varuthu Aracha Kozhi Kari Thokku", "price": 160 },
+    { "item": "Kothu Parotta", "price": { "egg": 100, "chicken": 160, "mutton": 220 } },
+    { "item": "Dosa", "price": { "egg": 80, "chicken": 140, "mutton": 200 } },
+    { "item": "Dosa (Kal/Special)", "price": { "kal": 40, "special": 50 } },
+    { "item": "Omplete/Half Boiled", "price": 15 },
+    { "item": "Egg Kalaki", "price": 20 },
+    { "item": "Chicken Omplete/Chicken Kalaki", "price": 60 },
+    { "item": "Mutton Omplete/Mutton Kalaki", "price": 120 }
+  ],
+  "chinese_menu": [
+    { "item": "Fried Rice", "price": { "egg": 100, "chicken": 130, "mutton": 200 } },
+    { "item": "Noodles", "price": { "egg": 110, "chicken": 140, "mutton": 210 } },
+    { "item": "Chilli Chicken Semi Gravy", "price": 180 }
+  ]
+}

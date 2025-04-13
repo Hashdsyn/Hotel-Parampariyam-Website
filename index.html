@@ -14,17 +14,6 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('flutter_service_worker.js?v=442291963');
-    }
-  
-    // Fix GitHub Pages Refresh Issue
-    var path = window.location.pathname;
-    if (path !== "/" && !path.startsWith("/#")) {
-      window.location.replace("/#/" + path);
-    }
-  </script>  
   <base href="/">
 
   <meta charset="UTF-8">
