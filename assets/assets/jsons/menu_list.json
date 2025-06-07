@@ -1,9 +1,10 @@
 {
   "lunch_menu": [
     { "item": "Empty Biriyani", "price": 100 },
+    { "item": "Egg Biriyani", "price": 115 },
     { "item": "Chicken Dum Biriyani", "price": 160 },
     { "item": "Mutton Dum Biriyani", "price": { "half": 200, "full": 280 } },
-    { "item": "Chicken 65 (Parampariyam Spl Masala)", "price": 150 },
+    { "item": "Chicken 65 (Parampariyam SPL Masala)", "price": 150 },
     { "item": "Varuthu Aracha Attu Kari Thokku", "price": 250 },
     { "item": "Varuthu Aracha Kozhi Kari Thokku", "price": 160 },
     { "item": "Arcot Makkan Peda", "price": 40 },
@@ -13,7 +14,8 @@
     { "item": "Traditional Badam Milk", "price": 40 }
   ],
   "take_away": [
-    { "item": "1KG Briyani", "price": { "chicken": 300, "mutton": 500 } }
+    { "item": "1KG Chicken Briyani", "price": 300 },
+    { "item": "1KG Mutton Briyani", "price": 500 }
   ],
   "fresh_juice": [
     { "item": "Papaya", "price": 50 },
@@ -40,25 +42,44 @@
     ]
   },
   "dinner_menu": [
-    { "item": "Poricha Parota (1 no)", "price": 40 },
-    { "item": "Nool Parotta (2 no)", "price": 50 },
-    { "item": "Veechi Parotta (1 no)", "price": 50 },
+    { "item": "Poricha Parota (1 No)", "price": 40 },
+    { "item": "Nool Parotta (2 No)", "price": 50 },
+    { "item": "Veechi Parotta (1 No)", "price": 50 },
     { "item": "Chilli Parota", "price": 100 },
-    { "item": "Lappa", "price": { "egg": 100, "chicken": 160, "mutton": 220 } },
-    { "item": "Chicken 65 (Parampariyam Spl Masala)", "price": 150 },
+    { "item": "Egg Lappa", "price": 100 },
+    { "item": "Chicken Lappa", "price": 160 },
+    { "item": "Mutton Lappa", "price": 220 },
+    { "item": "Chicken 65 (Parampariyam SPL Masala)", "price": 150 },
     { "item": "Varuthu Aracha Attu Kari Thokku", "price": 250 },
     { "item": "Varuthu Aracha Kozhi Kari Thokku", "price": 160 },
-    { "item": "Kothu Parotta", "price": { "egg": 100, "chicken": 160, "mutton": 220 } },
-    { "item": "Dosa", "price": { "egg": 80, "chicken": 140, "mutton": 200 } },
-    { "item": "Dosa (Kal/Special)", "price": { "kal": 40, "special": 50 } },
+    { "item": "Egg Kothu Parotta", "price": 100 },
+    { "item": "Chicken Kothu Parotta", "price": 160 },
+    { "item": "Mutton Kothu Parotta", "price": 220 },
+    { "item": "Egg Dosa", "price": 80 },
+    { "item": "Chicken Kari Dosa", "price": 140 },
+    { "item": "Mutton Kari Dosa", "price": 200 },
+    { "item": "Kal Dosa", "price": 40 },
+    { "item": "Special Dosa", "price": 50 },
     { "item": "Omplete/Half Boiled", "price": 15 },
     { "item": "Egg Kalaki", "price": 20 },
     { "item": "Chicken Omplete/Chicken Kalaki", "price": 60 },
     { "item": "Mutton Omplete/Mutton Kalaki", "price": 120 }
   ],
   "chinese_menu": [
-    { "item": "Fried Rice", "price": { "egg": 100, "chicken": 130, "mutton": 200 } },
-    { "item": "Noodles", "price": { "egg": 110, "chicken": 140, "mutton": 210 } },
+    { "item": "Egg Fried Rice", "price": 100 },
+    { "item": "Chicken Fried Rice", "price": 130 },
+    { "item": "Mutton Fried Rice", "price": 200 },
+    { "item": "Egg Noodles", "price": 110 },
+    { "item": "Chicken Noodles", "price": 140 },
+    { "item": "Mutton Noodles", "price": 210 },
     { "item": "Chilli Chicken Semi Gravy", "price": 180 }
+  ],
+  "bucket_biriyani": [
+    { "item": "Chicken Bucket Biriyani (2 Serve)", "price": 300 },
+    { "item": "Chicken Bucket Biriyani (4 Serve)", "price": 800 },
+    { "item": "Chicken Bucket Biriyani (8 Serve)", "price": 1500 },
+    { "item": "Mutton Bucket Biriyani (2 Serve)", "price": 550 },
+    { "item": "Mutton Bucket Biriyani (4 Serve)", "price": 1100 },
+    { "item": "Mutton Bucket Biriyani (8 Serve)", "price": 2200 }
   ]
 }
